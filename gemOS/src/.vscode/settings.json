@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "context.h": "c",
+        "file.h": "c",
+        "lib.h": "c"
+    }
+}
